@@ -1,0 +1,56 @@
+/* index.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Heading styles */
+h1 {
+    color: #333;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    font-size: 24px;
+    text-align: center;
+}
+
+h3 {
+    color: #777;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Paragraph and link styles */
+p {
+    color: #444;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
+a:hover {
+    color: #0056b3; /* Darker blue color on hover */
+}
+
+/* Additional spacing styles */
+br {
+    margin-bottom: 20px; /* Adds extra spacing between elements */
+}
